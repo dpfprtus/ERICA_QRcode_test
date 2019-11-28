@@ -1,5 +1,5 @@
 # ERICA Opensource Project-QRcode test
-
+ __Team Name : OPQR__ 
 ## member 
 2019063363 최수용 
  -[@dpfprtus](https://github.com/dpfprtus)
