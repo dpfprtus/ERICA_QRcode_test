@@ -1,8 +1,6 @@
 # ERICA Opensource Project-QRcode test
  __Team Name : OPQR__ 
 
-![alt text](https://image.flaticon.com/icons/png/512/96/96977.png)
-
 ## 팀원이름
 2019063363 최수용 
  -[@dpfprtus](https://github.com/dpfprtus)
@@ -16,8 +14,10 @@
 
 ## OPQR의 필요성
  다음 [기사][1] 를 확인해 보자
-[1]: https://www.boannews.com/media/view.asp?idx=81734&kind=
+
 ![alt text](https://www.boannews.com/media/upFiles2/2019/07/961295946_7635.jpg)
+[1]: https://www.boannews.com/media/view.asp?idx=81734&kind=
+
  
 ## OPQR 프로그램
 
