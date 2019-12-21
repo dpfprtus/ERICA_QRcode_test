@@ -16,6 +16,7 @@
  다음 [기사][1] 를 확인해 보자
 
 ![alt text](https://www.boannews.com/media/upFiles2/2019/07/961295946_7635.jpg)
+
 [1]: https://www.boannews.com/media/view.asp?idx=81734&kind=
 
  
