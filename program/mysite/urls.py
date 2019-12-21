@@ -14,10 +14,26 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.contrib import admin
+<<<<<<< HEAD:ch3/mysite/urls.py
 from django.urls import path, include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('polls.urls')),
     path('index2.html',include('polls.urls')),
+=======
+from django.urls import path
+from polls import views
+"""
+path() : 이 함수는 route, view 2개의 필수 인자와, kwargs, name 2개의 선택 인자를 받는다.
+    route : URL 패턴 표현하는 문자열
+    view : URL 스트링이 매칭되면 호출되는 뷰 함수이다. 
+"""
+urlpatterns = [
+    path('admin/', admin.site.urls),
+    path('polls/', views.index, name='index'),
+    path('polls/<int:question_id>/', views.detail, name='detail'),
+    path('polls/<int:question_id>/result/', views.results, name='results'),
+    path('polls/<int:question_id>/vote/', views.vote, name='vote'),    
+>>>>>>> 73d36be62f33b6474e4fe335f7ef054e2b2427ec:program/mysite/urls.py
 ]
