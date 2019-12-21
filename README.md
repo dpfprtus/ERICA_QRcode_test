@@ -15,8 +15,8 @@
 아니면 위험한 사이트인지 분별하여 사용자에게 알려준다. 
 
 ## OPQR의 필요성
- 다음 [기사]를 확인해 보자
-[기사]: https://www.boannews.com/media/view.asp?idx=81734&kind=
+ 다음 [기사][1] 를 확인해 보자
+[1]: https://www.boannews.com/media/view.asp?idx=81734&kind=
 ![alt text](https://www.boannews.com/media/upFiles2/2019/07/961295946_7635.jpg)
  
 ## OPQR 프로그램
