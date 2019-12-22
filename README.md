@@ -100,6 +100,9 @@ python manage.py runserver
 1. Django를 이용하여 web을 설계하고 html을 연결하였다. 
 
 2. 기존 html 파일에서 우리에게 필요한 QR code 스캔만 가져왔다.
+```
+기존 html 사이트 : https://webqr.com/
+```
 
 3. 입력받은 QR code에 연동된 사이트가 위험한 사이트인지 검사하는 
 프로그램을 설계하였다.
